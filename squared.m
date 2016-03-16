@@ -1,6 +1,5 @@
 function [a] = squared(x)
-%UNTITLED2 Summary of this function goes here
-%   Detailed explanation goes here
+%   This function squares what ever you put for x. 
 
 a = x^2;
 end
